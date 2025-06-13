@@ -1,4 +1,4 @@
-![House-Price-Prediction-SS3](https://github.com/user-attachments/assets/a90300b7-8f97-4880-9794-3f78e8ebdd4c)# 🏡 Boston House Price Prediction
+# 🏡 Boston House Price Prediction
 
 A Flask-based web application to predict housing prices in Boston using a Machine Learning model.
 
